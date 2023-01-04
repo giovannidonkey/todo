@@ -32,7 +32,6 @@ list.addEventListener("click", function(e) {
     } else if (t === "BUTTON") {
       e.target.parentNode.remove();
     }
-    console.log(t);
 });
     
    
